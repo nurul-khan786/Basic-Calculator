@@ -16,7 +16,7 @@ I would like to express my gratitude to the online tutorials, documentation, and
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png) 
+![Calculator Screenshot](https://github.com/nurul-khan786/Basic-Calculator/blob/27a9177e657254f6080f0ae21516cdcaccaa024b/screenshot.png) 
 
 ---
 
